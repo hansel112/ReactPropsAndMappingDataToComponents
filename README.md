@@ -1,0 +1,2 @@
+# ReactPropsAndMappingDataToComponents
+Created with CodeSandbox
